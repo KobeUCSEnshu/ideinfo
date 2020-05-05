@@ -1,4 +1,4 @@
-# デバッグ編
+# デバッグ編 (VScode, C言語)
 
 ## はじめに
 
@@ -6,13 +6,11 @@
 
 以下で用いる例は、[debugTest0.c](https://github.com/KobeUCSEnshu/progprac12_2020/blob/master/samples/debugTest0.c)です。
 
-含まれる"debugTest0.c" ファイルにあるプログラムは、
-
 -   1/1 + 1/2 + ... + 1/9
 
 を計算する**つもり**（そうはなっていない）のプログラムです。
 
-```
+```C
 #include <stdio.h>
 #include <stdlib.h>
 

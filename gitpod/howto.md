@@ -1,15 +1,15 @@
 
-# 利用法
+# 簡単な利用法 (Gitpod)
 
-## workspace の作成
+## workspace 作成
 
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。
 
-* 例：[2020年プログラミング演習用レポジトリ](https://github.com/KobeUCSEnshu/progprac12_2020)
+* レポジトリの例：[2020年プログラミング演習用レポジトリ](https://github.com/KobeUCSEnshu/progprac12_2020)
 * 上ページの画面右上の`Gitpod` ボタンをクリックするか、[こちら](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックしてください。
 * セットアップには、少し時間がかかります。
 
-上記が、`workspaceを作成する操作`です。`一度 workspace を作成したら、しばらく同じ workspace を使えばよいでしょう`。自分の作ったプログラムなども Workspace 上に作成されます。
+上記が、`workspaceを作成する操作で初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
 別に、画面を閉じても workspace は消えません。
 後に述べる workspace 一覧表示から再開可能です。
 
@@ -18,9 +18,9 @@
 git 使いは、自分の private repository に保存するなりお好きにどうぞ。
 
 
-## 自分の workspace の一覧・起動
+## workspace 一覧・起動
 
-自分の workspace 一覧は、[こちら](https://gitpod.io/workspaces/)から取得可能です。
+自分の workspace 一覧は、[Gitpod](https://gitpod.io/)にログインすれば、すぐ表示可能です。
 
 ![workspacesSample.png](workspacesSample.png)
 
@@ -31,7 +31,7 @@ gitPod 起動中の当該ページの URL を取得すれば OK です。
 一方で、その URL をネットに晒すと、皆さんのアカウントと紐づけられた workspace 上で、いろんな悪いことがおこるかもしれませんので、注意しましょう。
 
 
-## 画面の説明
+## 開発画面
 
 ![panels.png](panels.png)
 
@@ -49,7 +49,7 @@ gitPod 起動中の当該ページの URL を取得すれば OK です。
 * Extensions: 拡張機能用ですが、知らなくてもOKです。
 
 
-## レポジトリから最新データの取得
+## 最新データの取得
 
 レポジトリから最新情報を取得するには、以下の手順で `git pull` をおこないます。
 
@@ -59,7 +59,7 @@ gitPod 起動中の当該ページの URL を取得すれば OK です。
 
 ![pull.png](pull.png)
 
-## プログラム開発・デバッグ
+## デバッグ
 
 デバッグの方法については、[VSC版の説明](../vsc/Cdebug.md)を見てください。
 
@@ -68,17 +68,6 @@ gitPod 起動中の当該ページの URL を取得すれば OK です。
 * Q: 画面、へんなことなっちゃった。もどしてくれー
   * 画面左側のパネル(Sidebar) は、一番左端のボタンで表示切替できるよ。
   * 右側も含めて変なことなったら、以下の操作で初期状態に戻るよ。
-    * `View` → `Find Command` → `> ` フィールドに `reset` と入力 -> `Reset workbench layout` という選択肢が現れるので、それを選択。 
+    * `View` → `Find Command` → `> ` フィールドに `reset` と入力 → `Reset workbench layout` という選択肢が現れるので、それを選択。 
     * 今後は、消さずにタブを切り替えたりしながら使おう！
-
-
-
-
-
-
-
-
-
-
-
 
