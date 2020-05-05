@@ -14,6 +14,8 @@ Gitpod は、Desktop 環境を整備することなく、クラウド上の開�
 
 # VS Code
 
+* [C環境の使い方](vsc/C.md)
+* セットアップ([演習室用](vsc/eroom.md), [自宅環境](vsc/Csetup.md))
 * [デバッガの使い方(C言語)](vsc/Cdebug.md)
 
 
