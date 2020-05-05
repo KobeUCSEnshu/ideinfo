@@ -12,5 +12,5 @@ Browser 上の統合開発環境から操作できるようになっています
 
 [2020年度のプログラミング演習１・２](https://sites.google.com/view/proenshu1kobeu/)では、ベースになるプログラムやデータを課題レポジトリ(@github)に配置し、
 皆さんが自宅プログラミング環境を整えるなくても、
-gitPod 上でプログラミング演習（Unix command, File I/O 操作含む）ができるようにする予定です。
+gitpod 上でプログラミング演習（Unix command, File I/O 操作含む）ができるようにする予定です。
 
