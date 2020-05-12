@@ -1,7 +1,7 @@
 
 # 簡単な利用法 (Gitpod)
 
-## workspace 作成
+## Setup workspace (作成)
 
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。
 
@@ -18,7 +18,7 @@
 git 使いは、自分の private repository に保存するなりお好きにどうぞ。
 
 
-## workspace 一覧・起動
+## Start workspace (一覧・実行)
 
 自分の workspace 一覧は、[Gitpod](https://gitpod.io/)にログインすれば、すぐ表示可能です。
 
@@ -31,7 +31,7 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 一方で、その URL をネットに晒すと、皆さんのアカウントと紐づけられた workspace 上で、いろんな悪いことがおこるかもしれませんので、注意しましょう。
 
 
-## 開発画面
+## View: 開発画面
 
 ![panels.png](panels.png)
 
@@ -50,7 +50,7 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 * Extensions: 拡張機能用ですが、知らなくてもOKです。
 
 
-## レポジトリ最新データの取得
+## Repository: 最新データの取得
 
 レポジトリから最新情報を取得するには、以下の手順で `git pull` をおこないます。
 
@@ -60,7 +60,7 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 
 ![pull.png](pull.png)
 
-## 授業時のサイクル
+## Cycle: 授業時のサイクル
 
 1. [Gitpod](https://gitpod.io/)にアクセスし、workspace を開く
 2. 新しい課題が出ている場合は、`git pull`でレポジトリ最新データの取得
@@ -73,7 +73,7 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
    * Gitpod からのファイルのダウンロード：`Explorer Sidebar` を開いて、ファイルを選択して右クリック、`Download` を選択すれば大丈夫。
    * Gitpod へのアップロード：こちらは、ファイルの drag&drop で大丈夫。
 
-## 簡単な操作
+## Operations: 簡単な操作
 
 * ファイル生成
   * 上部のメニューから`File`から`New File`を選んでも OK
@@ -92,11 +92,11 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 
 * その他操作は、需要に応じて、[FAQ](howto.md#FAQ)に記載予定
 
-## コンパイル＆実行
+## Compile ＆実行
 
 [compile](compile.md)を見てください
 
-## デバッグ
+## Debug
 
 デバッグの方法については、[VSC版の説明](../vsc/Cdebug.md)を見てください。
 
