@@ -5,3 +5,5 @@
 
 公開場所：　[https://kobeucsenshu.github.io/ideinfo/](https://kobeucsenshu.github.io/ideinfo/)
 
+* navigation 情報の変更の際は `_data/navagation.yml` を編集してください。
+
