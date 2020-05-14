@@ -3,17 +3,18 @@
 
 ## Setup workspace (作成)
 
-最初は github 上のレポジトリから皆さん用の Workspace を作成します。
+最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
 * レポジトリの例：[2020年プログラミング演習用レポジトリ](https://github.com/KobeUCSEnshu/progprac12_2020)
 * 上ページの画面右上の`Gitpod` ボタンをクリックするか、[こちら](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックしてください。
 * セットアップには、少し時間がかかります。
 
-上記が、`workspaceを作成する操作で初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
+上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
 別に、画面を閉じても workspace は消えません。
 後に述べる workspace 一覧表示から再開可能です。
 
-`注`: Gitpod の無料ライセンスでは、`workspace は２週間アクセスしないと消滅します`。
+`注`: Gitpod の無料ライセンスでは、`workspace は２週間アクセスしないと消滅します`。なくなってしまった場合は、しょうがないので、もう一度作成してもよいかと。
+
 自分の作成した課題プログラムなどは、ダウンロードするなどして保存（後述）しておきましょう。
 git 使いは、自分の private repository に保存するなりお好きにどうぞ。
 
