@@ -2,22 +2,22 @@ toc:
   - title: Gitpod
     subfolderitems:
       - page: 簡単な紹介
-        url: /gitpod/intro.html
+        url: /ideinfo/gitpod/intro.html
       - page: アカウント準備
-        url: /gitpod/account.html
+        url: /ideinfo/gitpod/account.html
       - page: 簡単な利用法（C言語）
-        url: /gitpod/howto.html
+        url: /ideinfo/gitpod/howto.html
       - page: コンパイル＆実行
-        url: /gitpod/compile.html
+        url: /ideinfo/gitpod/compile.html
       - page: デバッガ(VSC版)を参考に
-        url: /vsc/Cdebug.html
+        url: /ideinfo/vsc/Cdebug.html
   - title: VS code
     subfolderitems:
       - page: C環境の使い方
-        url: /vsc/C.html
+        url: /ideinfo/vsc/C.html
       - page: セットアップ（演習室）
-        url: /vsc/eroom.html
+        url: /ideinfo/vsc/eroom.html
       - page: セットアップ（自宅環境）
-        url: /vsc/Csetup.html
+        url: /ideinfo/vsc/Csetup.html
       - page: デバッガの使い方(C言語)
-        url: /vsc/Cdebug.html
+        url: /ideinfo/vsc/Cdebug.html
