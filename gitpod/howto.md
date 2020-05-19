@@ -6,7 +6,7 @@
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
 * レポジトリの例：[2020年プログラミング演習用レポジトリ](https://github.com/KobeUCSEnshu/progprac12_2020)
-* 上ページの画面右上の`Gitpod` ボタンをクリックするか、[こちら](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックしてください。
+* レポジトリページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。2020年プログラミング演習の場合[こちら](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックするだけで OK です。
 * セットアップには、少し時間がかかります。
 
 上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
