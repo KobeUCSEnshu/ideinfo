@@ -1,5 +1,6 @@
 
-# Gitpod 
+# 神戸大情報知能工学科 プログラミング環境 wiki
+## Gitpod 
 
 Gitpod は、Desktop 環境を整備することなく、クラウド上の開発環境をブラウザ経由で利用できる環境です。以下の手順を踏めば、Windows, Mac などの環境を問わず、手軽にプログラミング環境を手配することができます。
 
@@ -12,7 +13,7 @@ Gitpod は、Desktop 環境を整備することなく、クラウド上の開�
 * [コンパイル＆実行](gitpod/compile.md)
 * デバッガ：[VSC版](vsc/Cdebug.md)を参考に
 
-# VS Code
+## VS Code
 
 * [C環境の使い方](vsc/C.md)
 * セットアップ([演習室用](vsc/eroom.md), [自宅環境](vsc/Csetup.md))
