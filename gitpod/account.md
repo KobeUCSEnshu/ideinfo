@@ -1,4 +1,3 @@
-
 # アカウント準備 (Gitpod)
 
 Gitpod を利用するには、Github もしくは Gitlab にログインする必要があります。どちらのアカウントを使ってもらっても構いませんし、普段使いのアカウントとは別に、演習用の新規アカウントを作成してもらっても構いません。
@@ -15,6 +14,8 @@ Gitpod を利用するには、Github もしくは Gitlab にログインする�
 
 上記のアカウントが手配できていれば、以後は[Gitpod](https://www.gitpod.io/) に直接 login してアカウントを選ぶだけです。ログイン後、Workspace 一覧ページが見えるようになるかと。
 最初、workspace を作っていない場合は、以下のような空っぽの状態でしょうけど。
+
+プログラミング演習の workspace 作成方法に関しては[簡単な利用法](howto.md)をご覧ください。
 
 ![workspacesEmpty.png](workspacesEmpty.png)
 
