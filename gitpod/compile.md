@@ -1,4 +1,3 @@
-
 # コンパイル＆実行 (Gitpod)
 
 ターミナルから、Unix コマンドを実行する方法と、GUI操作をおこなう場合を紹介します。
@@ -14,7 +13,7 @@
 
 ```
 gitpod /workspace/progprac12 $ cd samples (directory を変える change directory command)
-gitpod /workspace/progprac12/samples $ ls  (directory の内容を表示する list command)
+gitpod /workspace/progprac12/samples $ ls  (現在の directory の内容を表示する list command)
 debugTest0.c  hello.c
 gitpod /workspace/progprac12/samples $ gcc hello.c  (hello.c をコンパイル)
 gitpod /workspace/progprac12/samples $ ls (a.out という名前で実行ファイルが生成)
