@@ -22,7 +22,8 @@ gitpod /workspace/progprac12_2020/samples $ ./a.out (実行してみる)
 Hello World!
 ```
 
-gcc のオプションや、実行時のコマンドライン引数の与え方は、「検索してみて」ください。
+gcc のオプションや、実行時のコマンドライン引数の与え方は、[こちら](https://sites.google.com/view/proenshu1kobeu/%E3%83%9B%E3%83%BC%E3%83%A0/%E7%AC%AC%E5%9B%9E_1/%E5%9F%BA%E6%9C%AC%E3%81%AEunix%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)や[こちら](https://sites.google.com/view/proenshu1kobeu/%E3%83%9B%E3%83%BC%E3%83%A0/%E7%AC%AC%E5%9B%9E_4/c%E8%A8%80%E8%AA%9E%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E5%AE%9F%E8%A1%8C%E6%B5%81%E3%82%8C)を参考にしてください。
+他にももっと知りたい人は検索してみてください。
 
 ![terminal.png](terminal.png)
 
