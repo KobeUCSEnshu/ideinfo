@@ -1,4 +1,3 @@
-
 # 神戸大情報知能工学科 プログラミング環境 wiki
 ## Gitpod 
 
@@ -11,7 +10,7 @@ Gitpod は、Desktop 環境を整備することなく、クラウド上の開�
 * [アカウント準備](gitpod/account.md)
 * [簡単な利用法（C言語）](gitpod/howto.md)
 * [コンパイル＆実行](gitpod/compile.md)
-* デバッガ：[VSC版](vsc/Cdebug.md)を参考に
+* [デバッガ](gitpod/gitpod_Cdebug.md)
 
 ## VS Code
 
