@@ -62,6 +62,12 @@ Linux に慣れていない人にはお勧めしませんが、これを機会�
 
 Xcode をインストールすると、gcc (という名前の clang )　と lldb（デバッガ） が入るはずです。Xcode のインストール方法は適当に各自検索してください。
 
+ターミナル以下のコマンドを打ってバージョンが表示されればOKです。
+```bash
+gcc --version
+lldb --version
+```
+
 VS code が自動で認識してくれる launch.json などが上手く動かない場合は、こちら([launch.json](maclldb/launch.json), [tasks.json](maclldb/tasks.json))をもっていってください。（C/C++ 環境 0.25.1 では上手く動くみたいですが、Insider build などでは上手く動かないケースもあるようです）
 
 `トラブルシュート`
