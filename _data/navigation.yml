@@ -10,7 +10,7 @@ toc:
       - page: コンパイル＆実行
         url: /ideinfo/gitpod/compile.html
       - page: デバッガ(VSC版)を参考に
-        url: /ideinfo/vsc/Cdebug.html
+        url: /ideinfo/gitpod/gitpod_Cdebug.md
   - title: VS code
     subfolderitems:
       - page: C環境の使い方
