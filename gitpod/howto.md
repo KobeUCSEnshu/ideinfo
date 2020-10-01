@@ -4,13 +4,15 @@
 
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
-* レポジトリの例：[2020年プログラミング演習用レポジトリ](https://github.com/KobeUCSEnshu/progprac12_2020)
-* github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。2020年プログラミング演習の場合[こちら](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックするだけで OK です。
+* レポジトリの例：2020年プログラミング演習１・２用レポジトリ[https://github.com/KobeUCSEnshu/progprac12_2020](https://github.com/KobeUCSEnshu/progprac12_2020)
+* github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
+  * 2020年プログラミング演習1・2の場合[https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックするだけで OK です。
+  * 同じく[応用アルゴリズム演習](https://gitpod.io/#https://github.com/tomiokamada/advAlgoSamples)
 * セットアップには、少し時間がかかります。
 
 上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
 別に、画面を閉じても workspace は消えません。
-後に述べる workspace 一覧表示から再開可能です。
+後に述べるように [gitpod](https://gitpod.io/)に朗吟すれば、workspace 一覧が表示され、いつでも再開可能です。
 
 `注`: Gitpod の無料ライセンスでは、`workspace は２週間アクセスしないと消滅します`。なくなってしまった場合は、しょうがないので、もう一度作成してもよいかと。
 
@@ -98,7 +100,7 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 
 ## Debug
 
-デバッグの方法については、[VSC版の説明](../vsc/Cdebug.md)を見てください。
+デバッグの方法については、[こちら](gitpod_Cdebug.md)を見てください。
 
 ## FAQ
 
