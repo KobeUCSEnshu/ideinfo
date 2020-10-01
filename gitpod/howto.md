@@ -4,10 +4,10 @@
 
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
-* レポジトリの例：2020年プログラミング演習１・２用レポジトリ[https://github.com/KobeUCSEnshu/progprac12_2020](https://github.com/KobeUCSEnshu/progprac12_2020)
+* レポジトリの例：2020年プログラミング演習１・２用レポジトリ([https://github.com/KobeUCSEnshu/progprac12_2020](https://github.com/KobeUCSEnshu/progprac12_2020))
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
-  * 2020年プログラミング演習1・2の場合[https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020)をクリックするだけで OK です。
-  * 同じく[応用アルゴリズム演習](https://gitpod.io/#https://github.com/tomiokamada/advAlgoSamples)
+  * つまり、2020年プログラミング演習1・2の場合 [https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac12_2020) をクリックするだけで OK です。
+  * 各演習用 workspace setup links: [応用アルゴリズム演習](https://gitpod.io/#https://github.com/tomiokamada/advAlgoSamples)
 * セットアップには、少し時間がかかります。
 
 上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
