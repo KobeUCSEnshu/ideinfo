@@ -12,7 +12,7 @@
 
 上記で、workspaceが作成されます。原則、`初回だけで十分`です。しばらく同じ workspace を使いましょう。自分の作ったプログラムなども Workspace 上に作成されます。
 別に、画面を閉じても workspace は消えません。
-後に述べるように [gitpod](https://gitpod.io/)に朗吟すれば、workspace 一覧が表示され、いつでも再開可能です。
+後に述べるように [gitpod](https://gitpod.io/) に login すれば、workspace 一覧が表示され、いつでも再開可能です。
 
 `注`: Gitpod の無料ライセンスでは、`workspace は２週間アクセスしないと消滅します`。なくなってしまった場合は、しょうがないので、もう一度作成してもよいかと。
 
