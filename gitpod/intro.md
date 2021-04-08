@@ -8,7 +8,7 @@ Browser 上の統合開発環境から操作できるようになっています
 * git: 主にプログラム開発に用いられるバージョン管理システム
 * github: ソフトウェア開発プラットフォーム。git を利用。
 * gitpod: github 上のプログラムを仮想マシン上で即座に動作・開発できる環境
-* Eclipse Theia: Browser 上で動作する開発環境。操作は VS code に類似
+* VS codeあるいはEclipse Theia: Browser 上で動作している開発環境。操作はほぼ同じ。2021年頃からVS code が標準に変更された模様。
 <!---
 [2020年度のプログラミング演習１・２](https://sites.google.com/view/proenshu1kobeu/)では、ベースになるプログラムやデータを課題レポジトリ(@github)に配置し、
 皆さんが自宅プログラミング環境を整えなくても、

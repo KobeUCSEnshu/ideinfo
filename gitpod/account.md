@@ -17,5 +17,5 @@ Gitpod を利用するには、Github もしくは Gitlab にログインする�
 
 プログラミング演習の workspace 作成方法に関しては[簡単な利用法](howto.md)をご覧ください。
 
-![workspacesEmpty.png](workspacesEmpty.png)
+![workspacesEmpty21.png](workspacesEmpty21.png)
 

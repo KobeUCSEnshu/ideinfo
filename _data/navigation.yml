@@ -9,8 +9,6 @@ toc:
         url: /ideinfo/gitpod/howto.html
       - page: コンパイル＆実行
         url: /ideinfo/gitpod/compile.html
-      - page: デバッガの使い方（C言語）
-        url: /ideinfo/gitpod/gitpod_Cdebug.html
   - title: VS code
     subfolderitems:
       - page: C環境の使い方

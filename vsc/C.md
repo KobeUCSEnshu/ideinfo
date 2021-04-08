@@ -27,20 +27,16 @@
 ![vsc01.png](vsc01.png)
 
 
-## Open Workspace Folder: フォルダを開く
+## Workspace Folder: フォルダを開く
 
 プログラムを配置するフォルダの指定を要求されます。
 自分でフォルダを選択して選んでください。
-
-`advAlgoSetup.sh` を実行した人は、`Desktop` の下の `vscGit1 の更に下にある `advalgosamples` フォルダを選択すればOKです。
 
 ![vsc00a.png](vsc00a.png)
 
 
 
 ## Create Files: プログラム作成
-
-`advAlgoSamples` フォルダの場合、すでにサンプルプログラムを作成してあります。
 
 新規プログラム作成時は、フォルダの`新しいファイル`ボタンを押して、hello.c とかファイル名を入力してください。
 insider build 使うとか聞かれるかもしれませんが、拒否してもらってOKです。
@@ -52,23 +48,19 @@ drag & drop で配置してもらうのでも構いません。
 
 ## Execution: プログラムの実行
 
-`注:` フォルダの `.vscode` 以下に、`launch.json` および `tasks.json` がない場合は、初回時に作成が必要です。あとに書く手続きをおこなってください。`advAlgoSamples`は設定済みです。
+1. explorer 画面を開いて、C のファイルを開いてください。左側に`>` マークがついているのはdirectory です。クリックで directory の中のファイルも見えるようになります。
+   * `注`: ファイルを保存してない場合は、コンパイル前に保存しましょう！
+2. コンパイル＆実行：実行対象プログラムを Editor 上で選択した状態で、`Run`->`Run Without Debugging` で実行＆コンパイルが可能です。
+   * 初回は、設定のための選択肢が出てきます。`C++(gdb/lldb)`→`gcc build active task`をえらびましょう。同じ directory に `hello` ができれば成功。`.vscode` という directory の中に、`tasks.json` と `launch.json` が勝手にできます。
+   * `注1`: 違うファイルを選択していると、コンパイルできません。
+   * `注2`: 失敗したら、`.vscode` directory の中を空にして（`.vscode`は残す）、もう一度トライしてください。
+   * `注3`: デバッガで止まっているみたいな場合は、開始ボタン（△）で実行するかと。
 
-例えば、`hello.c` を実行したい場合は、`hello.c` を`選択した状態`で、「デバッグ」→「デバッグなしで実行」を選んでください。
-
-![vscC04.png](vscC04.png)
-
-デバッガにかける場合は、「デバッグの開始」になります。詳しくは、[こちら](vscCdebug.md)。
+4. デバッグ: `run` の `Start With Debugging` だとデバッガ Sidebar が出てきて、そこで実行します。開始ボタン（△）で実行するかと。
+   * 環境によっては ショートカット(debug: `F5`, 通常実行: `Ctl` + `F5`)が割り当てられています。
+   * デバッガの使い方については、[こちら](../vsc/Cdebug.md)を見てください。
 
 標準出力は、ターミナルもしくはデバッグコンソールにでます。
-
-`注:` 上記 json ファイルができていない場合は、以下の警告が２回出るはずです。それぞれ、以下の対応をしてもらうか、[launch.json](eroom/launch.json), [tasks.json](eroom/tasks.json)をダウンロードして、`.vscode` directory に配置してください。
-
-1. `環境の選択`という欄があらわれます。`C++ (GDB/LLDB)` → `gcc build and debug active file` を選んでください。
-2. 再度、`対象プログラムを選んだ状態にしてから`実行を試みると、今度は、`タスク...を見つけられませんでした`などと出るかと。`タスクの構成`を選んで、`C/C++:gcc build active file`を選んでください。
-
-* `launch.json` や `tasks.json` は、VS code が 実行環境に応じて作成したものを使えばいいと思いますが、`advAlgoSetup.sh` でセットアップしたものは、Mac: gcc + gdb 環境用の設定にしてあります。
-
 
 
 ### Arguments: プログラムへの引数の与え方

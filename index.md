@@ -10,7 +10,6 @@ Gitpod は、Desktop 環境を整備することなく、クラウド上の開�
 * [アカウント準備](gitpod/account.md)
 * [簡単な利用法（C言語）](gitpod/howto.md)
 * [コンパイル＆実行](gitpod/compile.md)
-* [デバッガ](gitpod/gitpod_Cdebug.md)
 
 ## VS Code
 
