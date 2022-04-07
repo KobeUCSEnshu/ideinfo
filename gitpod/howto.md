@@ -5,10 +5,10 @@
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
 * レポジトリの例：
-  * 2021年プログラミング演習１用レポジトリ([https://github.com/jasonsosen/KobeUniProenshu_1_2021](https://github.com/jasonsosen/KobeUniProenshu_1_2021))
+  * 2022年プログラミング演習I 用レポジトリ([https://github.com/jasonsosen/KobeUniProenshu_1_2022](https://github.com/jasonsosen/KobeUniProenshu_1_2022))
   * 2020年プログラミング演習３用レポジトリ([https://github.com/KobeUCSEnshu/progprac3_2020](https://github.com/KobeUCSEnshu/progprac3_2020))
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
-  * つまり、2021年プログラミング演習1・2の場合 [https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2021](https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2021) をクリックするだけで OK です。
+  * つまり、2022年プログラミング演習Iの場合 [https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2022](https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2022) をクリックするだけで OK です。
   * 各演習用 workspace setup links: [応用アルゴリズム演習](https://gitpod.io/#https://github.com/tomiokamada/advAlgoSamples)、[演習３](https://gitpod.io/#https://github.com/KobeUCSEnshu/progprac3_2020)
 * セットアップには、少し時間がかかります。
 
