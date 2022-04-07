@@ -116,9 +116,10 @@ gitpod 起動中の当該ページの URL を取得すれば OK です。
 
 [compile](compile.md)を見てください
 
-## Debug
+<!-- ## Debug
 
-デバッグの方法については、[こちら](gitpod_Cdebug.md)を見てください。
+デバッグの方法については、[こちら](gitpod_Cdebug.md)を見てください。 -->
+
 
 ## FAQ
 
