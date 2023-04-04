@@ -5,7 +5,7 @@
 最初は github 上のレポジトリから皆さん用の Workspace を作成します。原則`初回に１度おこなうだけで十分`です。
 
 * レポジトリの例：
-  * 2022年プログラミング演習I 用レポジトリ([https://github.com/jasonsosen/KobeUniProenshu_1_2022](https://github.com/jasonsosen/KobeUniProenshu_1_2023))
+  * 2022年プログラミング演習I 用レポジトリ([https://github.com/jasonsosen/KobeUniProenshu_1_2023](https://github.com/jasonsosen/KobeUniProenshu_1_2023))
   * 2020年プログラミング演習３用レポジトリ([https://github.com/KobeUCSEnshu/progprac3_2020](https://github.com/KobeUCSEnshu/progprac3_2020))
 * github のページの URL 冒頭に`https://gitpod.io/#` をつけてアクセスします。
   * つまり、2022年プログラミング演習Iの場合 [https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2023](https://gitpod.io/#https://github.com/jasonsosen/KobeUniProenshu_1_2022) をクリックするだけで OK です。
